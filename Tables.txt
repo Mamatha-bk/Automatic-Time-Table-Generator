@@ -1,0 +1,34 @@
+1)create table ttgmm11(d1 varchar(10),p1 varchar(10),p2 varchar(10),p3 varchar(10),p4 varchar(10),p5 varchar(10),p6 varchar(10),
+d2 varchar(10),pq1 varchar(10),pq2 varchar(10),pq3 varchar(10),pq4 varchar(10),pq5 varchar(10),pq6 varchar(10),d3 varchar(10),
+pu1 varchar(10),pu2 varchar(10),pu3 varchar(10),pu4 varchar(10),pu5 varchar(10),pu6 varchar(10),
+d4 varchar(10),pv1 varchar(10),pv2 varchar(10),pv3 varchar(10),pv4 varchar(10),pv5 varchar(10),pv6 varchar(10),
+d5 varchar(10),pw1 varchar(10),pw2 varchar(10),pw3 varchar(10),pw4 varchar(10),pw5 varchar(10),pw6 varchar(10),
+d6 varchar(10),px1 varchar(10),px2 varchar(10),px3 varchar(10),px4 varchar(10),px5 varchar(10),px6 varchar(10),
+branch varchar(10),sec varchar(10),roomnum varchar(10));
+
+
+2)create table ids11(d1 varchar(10),p1 varchar(10),p2 varchar(10),p3 varchar(10),p4 varchar(10),p5 varchar(10),p6 varchar(10),
+d2 varchar(10),pq1 varchar(10),pq2 varchar(10),pq3 varchar(10),pq4 varchar(10),pq5 varchar(10),pq6 varchar(10),d3 varchar(10),
+pu1 varchar(10),pu2 varchar(10),pu3 varchar(10),pu4 varchar(10),pu5 varchar(10),pu6 varchar(10),
+d4 varchar(10),pv1 varchar(10),pv2 varchar(10),pv3 varchar(10),pv4 varchar(10),pv5 varchar(10),pv6 varchar(10),
+d5 varchar(10),pw1 varchar(10),pw2 varchar(10),pw3 varchar(10),pw4 varchar(10),pw5 varchar(10),pw6 varchar(10),
+d6 varchar(10),px1 varchar(10),px2 varchar(10),px3 varchar(10),px4 varchar(10),px5 varchar(10),px6 varchar(10),
+branch varchar(10),sec varchar(10),roomnum varchar(10));
+
+
+3)create table room(num varchar(20),course varchar(20),sec varchar(20));
+
+
+4)create table xxx(T1 varchar(20),T11 varchar(20),T2 varchar(20),T22 varchar(20),T3 varchar(20),T33 varchar(20),T4 varchar(20),T44 varchar(20),
+T5 varchar(20),T55 varchar(20),T6 varchar(20),T66 varchar(20),branch varchar(20),roomnum varchar(20));
+
+
+5)create table addstaff(SID VARCHAR2(20),NAME VARCHAR2(20),PW VARCHAR2(20),JD VARCHAR2(20),MI VARCHAR2(20),
+PH VARCHAR2(10),QF VARCHAR2(20),SUB VARCHAR2(20),YEAR VARCHAR2(20),SEM VARCHAR2(20),SAL VARCHAR2(20),AD VARCHAR2(20));
+
+
+6)create table addStudents(S_ID VARCHAR2(20),NAMES VARCHAR2(20),PWS VARCHAR2(20),JDS VARCHAR2(20),MIS VARCHAR2(20),
+PHS VARCHAR2(20),BRANCHS VARCHAR2(20),CATEGORYS VARCHAR2(20),YEARS VARCHAR2(20),SEMS VARCHAR2(20),BACKLOGS VARCHAR2(20),
+PHPS VARCHAR2(20));
+
+
